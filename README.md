@@ -7,6 +7,7 @@
 ###<h1 align="center">HI , i am marin </h1>
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=chipichipi15&label=Profile%20view&color=0e75b6&style=flat" />
+  
 ##github stats
   ![](https://github-profile-trophy.vercel.app/?username=chipichipi15)
 <!---
