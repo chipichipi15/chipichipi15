@@ -5,6 +5,9 @@
 - 📫 How to reach me just message me on x my username is @alex_is_cooking12
 - 😄 Pronouns: call me she/her but they will work too!!!
 ###<h1 align="center">HI , i am marin </h1>
+<h3 align="center">
+  learning open source softwares--crm softwares
+</h3>
 <p align = "center">
   <img src="https://komarev.com/ghpvc/?username=chipichipi15&label=Profile%20view&color=0e75b6&style=flat" />
   
